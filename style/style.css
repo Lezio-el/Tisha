@@ -90,6 +90,10 @@ body {
   font-family: "Work Sans", sans-serif;
 }
 
+a.imgLink{
+   color: inherit;
+  text-decoration: inherit;
+}
 .container {
   height: 100vh;
   width: 100vh;
